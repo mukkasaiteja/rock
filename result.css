@@ -1,0 +1,35 @@
+body{
+    background-color: var(--primary-green-color);
+    text-align: center;
+    overflow: hidden;
+}
+#hurray{
+    font-size:10rem;
+    color: #fff;
+    font-weight: bold;
+    line-height: 3px;
+}
+#win{
+    color: #fff;
+    font-size: 3rem;
+}
+.play{
+    background-color: white;
+    color: gray;
+    height: 3rem;
+    border-radius: 5px;
+    border: none;
+}
+.play .link{
+    text-decoration: none;
+    padding:10px 25px;
+    color: grey;
+    font-size: large;
+}
+.stars{
+   margin-left: 9%;
+}
+.trophy{
+    position: relative;
+    right: 21.5rem;
+}
